@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    color: rgb(12, 12, 12);
+  }
+li{
+    list-style-type: square;
+    margin: 10px;
+}
+a{
+    font-weight: bold;
+}
+table{
+    border: 1px solid black;
+    border-collapse: separate;
+}
+th, td { 
+    border: solid 1px #000000; 
+}
+image{
+    width: 30%;
+    height: 30%;
+}
